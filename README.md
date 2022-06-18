@@ -1,4 +1,4 @@
-# Pateeer Basic Anti Cheat
+# IhsanNurohman Basic Anti Cheat
 
 ## A SAMP Basic Anti Cheat - Plug and Easy to Use
 
