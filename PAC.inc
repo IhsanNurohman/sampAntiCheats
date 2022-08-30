@@ -1,16 +1,16 @@
 /*
 
-                Pateeer Basic Anti Cheat
-            version 0.3
+              
 
-        Thanks to Mr Michael for giving feedback
-                  ff-agus for Improvements
+
+     Mr 
+                  
 
         Including:
         - Anti Health Hack
         - Anti Armor Hack
         - Anti Money Hack
-        - Anti Weapon Hack
+
 
 */
 
